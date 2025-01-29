@@ -8,4 +8,4 @@
 
 Такой подход позволит обеспечить безопасность хранения ключа и его использования при обращении к сервисам.
 
-Подготовка инфраструктуры для создания инфраструктуры с помощью Terraform описана в [практическом руководстве](https://yandex.cloud/ru/docs/iam/tutorials/static-key-in-lockbox/terraform), необходимый для настройки конфигурационный файл `static-key-in-lockbox-config.tf` расположен в этом репозитории.
+Создание инфраструктуры с помощью Terraform описано в [практическом руководстве](https://yandex.cloud/ru/docs/iam/tutorials/static-key-in-lockbox/terraform), необходимый для настройки конфигурационный файл `static-key-in-lockbox-config.tf` расположен в этом репозитории.
